@@ -1,3 +1,8 @@
+
+
+
+---
+
 # 1. Collision
 
 ## 1. what is k-universal hashing family H?
@@ -21,7 +26,7 @@ In this example, what is a0, a2 .. ak-1? In the course, professor changed k to b
 What is P and R, why not just one? <br>
 `mod P mod R == mod P*R` true or false?
 
-False, the first one, the max value is limited by the min(P,R) while the later one, the max value could be P*R. 
+False, the first one, the max value is limited by the min(P,R) while the later one, the max value could be P*R.
 
 
 
