@@ -6,6 +6,7 @@ Assignments/*
 # C extensions
 *.so
 *.pdf
+*.pptx
 # Distribution / packaging
 .Python
 build/
