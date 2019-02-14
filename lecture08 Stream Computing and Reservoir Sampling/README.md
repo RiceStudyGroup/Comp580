@@ -35,6 +35,8 @@ what is sampling bias?
 
 ## 3. what is reservoir sampling?
 
+https://en.wikipedia.org/wiki/Reservoir_sampling
+
 so this means we have a reservoir.
 
 reservoir, a large natural or artificial lake used as a source of water supply.
