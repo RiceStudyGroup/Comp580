@@ -5,7 +5,7 @@ __pycache__/
 Assignments/*
 # C extensions
 *.so
-
+*.pdf
 # Distribution / packaging
 .Python
 build/

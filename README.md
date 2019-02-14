@@ -23,6 +23,12 @@ https://github.com/JobQiu/RiceComp580Note/tree/master/lecture02#what-is-a-perfec
 ### 3.
 
 
+## cs168 Stanford
+
+`The Modern Algorithmic Toolbox`
+
+https://web.stanford.edu/class/cs168/index.html
+
 
 
 ## cs265
